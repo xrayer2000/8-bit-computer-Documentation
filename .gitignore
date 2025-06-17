@@ -1,9 +1,16 @@
 ArduinoCode/
 Asembly programs/
 Documentation/
-!Documentation/8-Bit Computer.pdf
-EasyEDA/
+!Documentation/'8-Bit Computer.pdf'
+!Documentation/'ALU.pdf'
+!Documentation/'Clock Module.pdf'
+!Documentation/'Control Matrix.pdf'
+!Documentation/'General purpose Register.pdf'
+!Documentation/'Input Module.pdf'
+!Documentation/'Power.pdf'
+!Documentation/'RAM.pdf'
 
+EasyEDA/
 Inventor/
 Kicad/
 Logisim/
