@@ -2,13 +2,13 @@ ArduinoCode/
 Asembly programs/
 Documentation/
 !Documentation/'8-Bit Computer.pdf'
-!Documentation/'ALU.pdf'
-!Documentation/'Clock Module.pdf'
-!Documentation/'Control Matrix.pdf'
-!Documentation/'General purpose Register.pdf'
-!Documentation/'Input Module.pdf'
-!Documentation/'Power.pdf'
-!Documentation/'RAM.pdf'
+!Documentation/Schematics/All modules/'ALU.pdf'
+!Documentation/Schematics/All modules/'Clock Module.pdf'
+!Documentation/Schematics/All modules/'Control Matrix.pdf'
+!Documentation/Schematics/All modules/'General purpose Register.pdf'
+!Documentation/Schematics/All modules/'Input Module.pdf'
+!Documentation/Schematics/All modules/'Power.pdf'
+!Documentation/Schematics/All modules/'RAM.pdf'
 
 EasyEDA/
 Inventor/
