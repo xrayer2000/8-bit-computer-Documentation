@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 3386P-1-101T)(type KiCad)(uri "C:/Users/Emil/Documents/kikad/refrences components/3386P-1-101T")(options "")(descr ""))
+  (lib (name EG1218)(type KiCad)(uri "C:/Users/Emil/Documents/kikad/refrences components/EG1218")(options "")(descr ""))
+)
