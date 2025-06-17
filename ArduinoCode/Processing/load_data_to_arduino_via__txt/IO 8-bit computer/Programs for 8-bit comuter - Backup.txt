@@ -1,0 +1,33 @@
+// Addition
+07,0a,0f,0b,cc,2d
+
+// Multiplication
+0f,0a,17,0b,1f,00,e2,38,0b,03,2d,cf,2f,06
+
+// Division
+07,0a,0f,0b,1f,00,c8,c3,f8,38,06,2d
+
+// Modulo
+07,0a,0f,0b,f8,38,09,2f,0c,c8,2f,04,2d
+
+
+
+// Adding one loop
+0f,01,07,00,cc,38,00,2f,04
+
+
+//Squaring
+d1,01,c1,cc,38,00,08,2f,03
+
+// Binary to Decimal
+07,ff,0f,0a,27,00,17,00,f8,38,0d,2f,11,c2,c8,2f,08,b0,02,2f,06
+
+
+//ADC
+07,ff,0f,ff,cc,10,07,00,0f,00,ec,0a,2d
+
+// Fibonacci numbers
+d1,01,10,c1,ce,38,00,02,11,08,2f,04
+
+// Adding one loop with write
+0f,01,07,00,27,00,38,0c,b0,cc,2f,06,fc,27,00,38,14,46,2f,0f,2d
