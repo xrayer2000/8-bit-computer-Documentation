@@ -1,0 +1,11 @@
+1)
+
+Use "Programs for 8-bit comuter" in "Digital teknik\New 8 bit computer - Green Stone"
+
+2)
+
+ // toggle between readData() and writeData();
+
+when you read from txtfile to 8-bit computer, use only readData()
+when you write to txtfile from 8-bit computer, use only writeData()
+
